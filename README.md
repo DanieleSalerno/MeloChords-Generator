@@ -15,6 +15,6 @@ The project aims to achieve two main objectives:
 
 This project leverages the following technologies:  
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)  
-![Gradio](https://img.shields.io/badge/Gradio-UI-success?logo=gradio&logoColor=white)  
-![LM Studio](https://img.shields.io/badge/LM%20Studio-LLM-orange?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABP0lEQVRYR+2WsQ3CMAxFz2IqIAlIgzIgTAESoJ3IAJiAA2JAFkgLO1kLMIG9BqD+4uB7m7dxT6+fXDQCB9r7VgBKbK4Uj2klD0RlAi1y3BDXnARIkB9XMoGbEKUIp6CQD7Aukq0J0+pyC6BRsS5UkS6zYqUVzGBpHhZL9+MibXY2uZ2ZKJk1IUzfYJ8n2t0lExF0W7TQzSH6GnyIkmk6rWQKyK9kV7G+Alk7QfRrKZ9I8P4hYrN9RkI2n2zB6xkUL58Z5fqM45tVr9e5gq66fZSk9aL8BzqyhX13TlmJAAAAAElFTkSuQmCC)
+[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Gradio](https://img.shields.io/badge/Gradio-UI-success?logo=gradio&logoColor=white)](https://gradio.app/)
+[![LM Studio](https://img.shields.io/badge/LM%20Studio-LLM-orange)](https://lmstudio.ai/)  <!-- sostituire con il sito corretto di LM Studio -->
