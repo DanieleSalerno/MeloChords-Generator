@@ -184,6 +184,6 @@ The metrics shown in the tables above were computed from the resulting MIDI file
 | 42.4000   | 9.2087       | Ambitus          | 39.4000  | 12.7593     |
 
 ---
-## Developed with ❤️ by [Dan](https://github.com/DanieleSalerno)
+## Developed with ❤️ by [Daniele Salerno](https://github.com/DanieleSalerno)
 
   
